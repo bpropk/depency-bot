@@ -24,6 +24,7 @@
         "migrate:down": "cross-var migrate --migrations-dir=\"./src/migrations/files/$npm_package_version\" --store=\"./src/migrations/utils/storage.ts\" -F --compiler=\"ts:./src/migrations/utils/ts-compiler.js\" down"
     },
     "dependencies": {
+        "@babel/core": "^7.24.5",
         "@nestjs/common": "10.2.7",
         "@nestjs/core": "10.2.7",
         "@nestjs/cqrs": "^10.2.6",
