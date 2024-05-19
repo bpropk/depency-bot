@@ -38,7 +38,6 @@
         "cryptr": "^6.3.0",
         "dayjs": "^1.11.5",
         "flatted": "^3.2.9",
-        "json5": "2.2.2",
         "lodash": "^4.17.21",
         "migrate": "^1.8.0",
         "mongoose": "6.11.3",
@@ -65,7 +64,7 @@
         "ts-jest": "28.0.5",
         "ts-loader": "9.3.1",
         "ts-node": "10.8.2",
-        "tsconfig-paths": "4.0.0",
+        "tsconfig-paths": "4.2.0",
         "typescript": "5.2.2"
     }
 }
